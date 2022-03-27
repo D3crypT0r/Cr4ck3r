@@ -10,5 +10,3 @@ system("git clone https://github.com/Und3rf10w/kali-anonsurf")
 system("apt-get install tor")
 system("cd kali-anonsurf")
 system("./installer.sh")
-© 2022 GitHub, Inc.
-Terms
