@@ -34,7 +34,7 @@ S:::::::::::::::SS    QQ:::::::::::Q  L::::::::::::::::::::::L     S::::::::::::
 
 list = ARGV[0]
 if (ARGV.length < 1) then 
-	puts "USAGE <./sqlscan.rb sites.txt >"
+	puts "USAGE <./Injection.rb sites.txt >"
 	exit 
 	
 	 end
