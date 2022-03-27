@@ -7,25 +7,31 @@ system("clear")
 print " 
                                                                                                                                                                                    
                                                                                                                                                                                    
-   SSSSSSSSSSSSSSS      QQQQQQQQQ     LLLLLLLLLLL                     SSSSSSSSSSSSSSS              CCCCCCCCCCCCC                    AAA                    NNNNNNNN        NNNNNNNN
- SS:::::::::::::::S   QQ:::::::::QQ   L:::::::::L                   SS:::::::::::::::S          CCC::::::::::::C                   A:::A                   N:::::::N       N::::::N
-S:::::SSSSSS::::::S QQ:::::::::::::QQ L:::::::::L                  S:::::SSSSSS::::::S        CC:::::::::::::::C                  A:::::A                  N::::::::N      N::::::N
-S:::::S     SSSSSSSQ:::::::QQQ:::::::QLL:::::::LL                  S:::::S     SSSSSSS       C:::::CCCCCCCC::::C                 A:::::::A                 N:::::::::N     N::::::N
-S:::::S            Q::::::O   Q::::::Q  L:::::L                    S:::::S                  C:::::C       CCCCCC                A:::::::::A                N::::::::::N    N::::::N
-S:::::S            Q:::::O     Q:::::Q  L:::::L                    S:::::S                 C:::::C                             A:::::A:::::A               N:::::::::::N   N::::::N
- S::::SSSS         Q:::::O     Q:::::Q  L:::::L                     S::::SSSS              C:::::C                            A:::::A A:::::A              N:::::::N::::N  N::::::N
-  SS::::::SSSSS    Q:::::O     Q:::::Q  L:::::L                      SS::::::SSSSS         C:::::C                           A:::::A   A:::::A             N::::::N N::::N N::::::N
-    SSS::::::::SS  Q:::::O     Q:::::Q  L:::::L                        SSS::::::::SS       C:::::C                          A:::::A     A:::::A            N::::::N  N::::N:::::::N
-       SSSSSS::::S Q:::::O     Q:::::Q  L:::::L                           SSSSSS::::S      C:::::C                         A:::::AAAAAAAAA:::::A           N::::::N   N:::::::::::N
-            S:::::SQ:::::O  QQQQ:::::Q  L:::::L                                S:::::S     C:::::C                        A:::::::::::::::::::::A          N::::::N    N::::::::::N
-            S:::::SQ::::::O Q::::::::Q  L:::::L         LLLLLL                 S:::::S      C:::::C       CCCCCC         A:::::AAAAAAAAAAAAA:::::A         N::::::N     N:::::::::N
-SSSSSSS     S:::::SQ:::::::QQ::::::::QLL:::::::LLLLLLLLL:::::L     SSSSSSS     S:::::S       C:::::CCCCCCCC::::C        A:::::A             A:::::A        N::::::N      N::::::::N
-S::::::SSSSSS:::::S QQ::::::::::::::Q L::::::::::::::::::::::L     S::::::SSSSSS:::::S        CC:::::::::::::::C       A:::::A               A:::::A       N::::::N       N:::::::N
-S:::::::::::::::SS    QQ:::::::::::Q  L::::::::::::::::::::::L     S:::::::::::::::SS           CCC::::::::::::C      A:::::A                 A:::::A      N::::::N        N::::::N
- SSSSSSSSSSSSSSS        QQQQQQQQ::::QQLLLLLLLLLLLLLLLLLLLLLLLL      SSSSSSSSSSSSSSS                CCCCCCCCCCCCC     AAAAAAA                   AAAAAAA     NNNNNNNN         NNNNNNN
-                                Q:::::Q                                                                                                                                            
-                                 QQQQQQ                                                                                                                                            
-                                                                                                                                                                                   
+                                                                                                                                          
+                                                                                                                                          
+IIIIIIIIII                 jjjj                                                  tttt            iiii                                     
+I::::::::I                j::::j                                              ttt:::t           i::::i                                    
+I::::::::I                 jjjj                                               t:::::t            iiii                                     
+II::::::II                                                                    t:::::t                                                     
+  I::::Innnn  nnnnnnnn   jjjjjjj    eeeeeeeeeeee        ccccccccccccccccttttttt:::::ttttttt    iiiiiii    ooooooooooo   nnnn  nnnnnnnn    
+  I::::In:::nn::::::::nn j:::::j  ee::::::::::::ee    cc:::::::::::::::ct:::::::::::::::::t    i:::::i  oo:::::::::::oo n:::nn::::::::nn  
+  I::::In::::::::::::::nn j::::j e::::::eeeee:::::ee c:::::::::::::::::ct:::::::::::::::::t     i::::i o:::::::::::::::on::::::::::::::nn 
+  I::::Inn:::::::::::::::nj::::je::::::e     e:::::ec:::::::cccccc:::::ctttttt:::::::tttttt     i::::i o:::::ooooo:::::onn:::::::::::::::n
+  I::::I  n:::::nnnn:::::nj::::je:::::::eeeee::::::ec::::::c     ccccccc      t:::::t           i::::i o::::o     o::::o  n:::::nnnn:::::n
+  I::::I  n::::n    n::::nj::::je:::::::::::::::::e c:::::c                   t:::::t           i::::i o::::o     o::::o  n::::n    n::::n
+  I::::I  n::::n    n::::nj::::je::::::eeeeeeeeeee  c:::::c                   t:::::t           i::::i o::::o     o::::o  n::::n    n::::n
+  I::::I  n::::n    n::::nj::::je:::::::e           c::::::c     ccccccc      t:::::t    tttttt i::::i o::::o     o::::o  n::::n    n::::n
+II::::::IIn::::n    n::::nj::::je::::::::e          c:::::::cccccc:::::c      t::::::tttt:::::ti::::::io:::::ooooo:::::o  n::::n    n::::n
+I::::::::In::::n    n::::nj::::j e::::::::eeeeeeee   c:::::::::::::::::c      tt::::::::::::::ti::::::io:::::::::::::::o  n::::n    n::::n
+I::::::::In::::n    n::::nj::::j  ee:::::::::::::e    cc:::::::::::::::c        tt:::::::::::tti::::::i oo:::::::::::oo   n::::n    n::::n
+IIIIIIIIIInnnnnn    nnnnnnj::::j    eeeeeeeeeeeeee      cccccccccccccccc          ttttttttttt  iiiiiiii   ooooooooooo     nnnnnn    nnnnnn
+                          j::::j                                                                                                          
+                jjjj      j::::j                                                                                                          
+               j::::jj   j:::::j                                                                                                          
+               j::::::jjj::::::j                                                                                                          
+                jj::::::::::::j                                                                                                           
+                  jjj::::::jjj                                                                                                            
+                     jjjjjj                                                                                                                                                                                                                                                           
                                                                                                                                                                                    
                                                                                                                                                                                    
                                                                                                                                                                                    
