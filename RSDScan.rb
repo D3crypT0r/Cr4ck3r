@@ -38,7 +38,7 @@ list = ARGV[0]
 
 if (ARGV.length < 1) then 
 	def ban()
-	puts "USAGE <./x3scan.rb sites.txt >"
+	puts "USAGE <./RSDScan.rb sites.txt >"
 	exit 
 	end
 	ban()
