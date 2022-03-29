@@ -192,7 +192,7 @@ system("rm ns.txt && rm mx.txt")
 end
 class Exploitscanner
        def scanner()
-        $sourcex = open("http://#{$url}").read
+        $sourcex = open("https://#{$url}").read
              
                   if  ($sourcex =~ /generator" content="TYPO3/) then 
 puts  "
