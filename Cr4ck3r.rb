@@ -89,7 +89,7 @@ puts " ""
    ██║   ██║  ██║██║  ██║╚██████╔╝███████╗   ██║   
    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝   
                                                    
-                                
+                          Rizwan Hilal (D3crypT0r)      
                                             
                                            
 """
@@ -151,13 +151,15 @@ C:::::C               r:::::r                      4::::4  c:::::c              
   C:::::CCCCCCCC::::C r:::::r                      4::::4  c:::::::cccccc:::::ck::::::k k:::::k  3333333     3:::::3 r:::::r            
    CC:::::::::::::::C r:::::r                    44::::::44 c:::::::::::::::::ck::::::k  k:::::k 3::::::33333::::::3 r:::::r            
      CCC::::::::::::C r:::::r                    4::::::::4  cc:::::::::::::::ck::::::k   k:::::k3:::::::::::::::33  r:::::r            
-        CCCCCCCCCCCCC rrrrrrr                    4444444444    cccccccccccccccckkkkkkkk    kkkkkkk333333333333333    rrrrrrr            
+        CCCCCCCCCCCCC rrrrrrr                    4444444444    cccccccccccccccckkkkkkkk    kkkkkkk333333333333333    rrrrrrr  
+	
+	
                                                                                                                                                                                                                                                                      
-                                                                                                                                                                     
+                                                                                                                         Rizwan Hilal (D3crypT0r)                                                                                                                                                             
                                                                                                     
 ".red
   def banner()
-    puts "{0} Cawl ".green  
+    puts "{0} Crawl ".green  
     puts "{1} Information Gathering " .green
     puts "{2} Scan" .green
     puts "{3} Port Scan".green
@@ -203,7 +205,8 @@ puts  "
    ██║      ██║   ██║     ╚██████╔╝██████╔╝    ╚███╔███╔╝   ██║   
    ╚═╝      ╚═╝   ╚═╝      ╚═════╝ ╚═════╝      ╚══╝╚══╝    ╚═╝   
                                                                   
-                <https://github.com/bahaabdelwahed/>
+                <https:github.com/D3crypT0r/Cr4ck3r/>
+		                Rizwan Hilal (D3crypT0r)
 "
 $site = "http://#{$url}"
 if  ($site["http"].nil?) then 
@@ -592,7 +595,9 @@ LLLLLLLLLLLLLLLLLLLLLLLL   ooooooooooo       gggggggg::::::g              CCCCCC
                                           g::::::ggg:::::::g                                                                                               
                                            gg:::::::::::::g                                                                                                
                                              ggg::::::ggg                                                                                                  
-                                                gggggg                                                                                                     
+                                                gggggg                                        
+						
+						                                    Rizwan Hilal (D3crypT0r)
                     
 "
 linuxlog = [
@@ -716,7 +721,7 @@ AAAAAAA                   AAAAAAA uuuuuuuu  uuuu        ttttttttttt     oooooooo
                                                                                                                                                                                                                                                                                                                                           
                                                                                                                                                                                                                                                                                                                                           
                                                                                                                                                                                                                                                                                                                                           
-                                                                                                                                                                                                                                                                                                                                          
+                                 Rizwan Hilal (D3crypT0r)                                                                                                                                                                                                                                                                                                         
                                                                                                                                                                                                                                                                                                                                           
                                                                                                                                                                             
                                                                                                                                                                             
