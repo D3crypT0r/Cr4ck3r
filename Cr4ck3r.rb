@@ -157,13 +157,13 @@ C:::::C               r:::::r                      4::::4  c:::::c              
                                                                                                     
 ".red
   def banner()
-    puts "{0} Spider ".green  
-    puts "{1} Web technologie " .green
-    puts "{2} WebApp Vul Scanner" .green
-    puts "{3} Port Scanner".green
-    puts "{4} CMS Scanner".green
-    puts "{5} Fuzzers ".green
-    puts "{6} Cms Exploit Scanner ".green
+    puts "{0} Cawl ".green  
+    puts "{1} Information Gathering " .green
+    puts "{2} Scan" .green
+    puts "{3} Port Scan".green
+    puts "{4} CMS Scan".green
+    puts "{5} Fuzzing ".green
+    puts "{6} CMS Exploiter ".green
     puts "{7} Backdoor Generation".green
     puts "{8} Linux Log Clear".green
     puts "{9} Find MX/NS".green
