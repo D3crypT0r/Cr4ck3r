@@ -59,7 +59,7 @@ Shodan.io Integration
 <summary>Cr4ck3r installation</summary>
 
 ```
-To install D3crypt you should
+To install Cr4ck3r you should
 execute the following commands.
 ```
 
