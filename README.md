@@ -63,7 +63,7 @@ To install D3crypt you should
 execute the following commands.
 ```
 
-#Linux
+#Linux#
 > git clone https://github.com//D3crypT0r/Cr4ck3r.git
 
 > cd Cr4ck3r
@@ -74,7 +74,7 @@ execute the following commands.
 
 =======================================================================
 
-#Android - Termux
+#Android - Termux#
 
 > pkg update -y
 
