@@ -1,13 +1,8 @@
 # Cr4ck3r
 Cr4ck3r - Automation Web Application Vulnerability Assessment And Penteration Tool - CMS &amp; Hard Coded
-# Cr4ck3r #
-
 # D3crypt By D3crypT0r
 
-<h3 align="center"><img src="https://courseshunter.com/media/images/android-ethical-hacking-course.jpg" alt="logo" height="250px"></h3>
-
 <p align="center">
-  <a href="http://entysec.netlify.app/">
     <img src="https://img.shields.io/badge/D3crypT0r-blue.svg"> 
   </a>
   <a href="https://en.wikipedia.org/wiki/Ruby_(programming_language)">
