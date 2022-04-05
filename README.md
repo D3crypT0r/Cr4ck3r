@@ -5,14 +5,27 @@ Cr4ck3r - Automation Web Application Vulnerability Assessment And Penteration To
    Developed By -- Rizwan Hilal Shah (D3crypT0r)
 
 ===================================
-
-![image](https://user-images.githubusercontent.com/66831571/157279099-57c46367-0a45-410d-9354-f8969dc6704a.png)
+![image](https://user-images.githubusercontent.com/66831571/161799073-4622f2d2-f36b-4e57-acaa-0caae559bc8a.png)
 -----------------------------------
-![image](https://user-images.githubusercontent.com/66831571/157208729-d47db6b3-9671-47b8-9348-a64c633659e1.png)
+Cross Site Scripting Scan
+![image](https://user-images.githubusercontent.com/66831571/161799288-4c329057-fe67-4d5f-9b0d-376cad316ff5.png)
+
+===================================
+SQL Injection
+![image](https://user-images.githubusercontent.com/66831571/161799405-88e1872e-778c-4dd9-be3d-15203df46ab1.png)
+
+===================================
+Log Clear
+![image](https://user-images.githubusercontent.com/66831571/161799479-d93d4ca0-63e2-4e19-bb97-38e0b2687ef0.png)
+
 ===================================
 Integrated Web Application Firewall Fingerprinting Toolkit
 
 ![image](https://user-images.githubusercontent.com/66831571/157284172-cb0f461e-1f1e-43af-8882-c46b3754dab1.png)
+
+===================================
+Shodan.io Integration
+![image](https://user-images.githubusercontent.com/66831571/161799668-48ddb68e-00ea-4c2d-818d-ae7b8d3746aa.png)
 
 ===================================
 
@@ -37,12 +50,6 @@ Integrated Web Application Firewall Fingerprinting Toolkit
               SMTP Banner And Much More!                              
 
 ======================
-![image](https://user-images.githubusercontent.com/66831571/157209055-5517d089-0dc3-47a8-bab9-a65f923764d7.png)
-
-![image](https://user-images.githubusercontent.com/66831571/157205471-7943aa4b-5d08-4f6f-ae2a-50f08ef6e6c5.png)
-
-             LINUX LOG CLEAR
-![image](https://user-images.githubusercontent.com/66831571/157209188-bb2c258e-7e31-4b8e-aac9-b163cd542b58.png)
 
 ## Installation - Linux ##
 
