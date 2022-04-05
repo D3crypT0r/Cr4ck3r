@@ -56,7 +56,7 @@ Shodan.io Integration
 ======================
 
 <details>
-<summary># Cr4ck3r installation </summary>
+<summary>#Cr4ck3r installation#</summary>
 
 ```
 To install Cr4ck3r you should
