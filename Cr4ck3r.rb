@@ -551,14 +551,14 @@ while true do
                                                                   elsif webapp == "1"
                                      print "Parametre To Test :: ".green
                                       parm0 = gets.chomp 
-                                      puts "this is a  automatique usage you can use the X3SCAN.rb script and add more than one website Click OK"
+                                      puts "this is a  automatic usage you can use the RSDScan.rb script and add more than one website Click OK"
                                       system("pause")
                                       system("echo http://#{$url}#{parm0} > sites.txt")
                                       system("ruby RSDScan.rb sites.txt")
                                 elsif webapp == "2"
                                       print "Parametre To Test :: ".green
                                       parm = gets.chomp
-                                      puts "this is a  automatique usage you can use the SQLSCAN.rb script and add more than one website Click OK"
+                                      puts "this is a  automatique usage you can use the Injection.rb script and add more than one website Click OK"
                                       system("pause")
                                       system("echo http://#{$url}#{parm} > sites.txt")
                                       system("ruby Injection.rb sites.txt")
