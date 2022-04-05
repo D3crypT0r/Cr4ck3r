@@ -96,7 +96,9 @@ To install Cr4ck3r you should execute the following commands.
 # DISCLAIMER
 
 ```
-Usage of the D3crypt tool for illigal purpose is strongly prohabited.
+    
+# Usage of the D3crypt tool for illigal purpose is strongly prohabited.
 It is the end user's responsibility to obey all applicable local, state, federal, and international laws.
 Developers assume no liability and are not responsible for any misuse or damage caused by this program.
+    
 ```
