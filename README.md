@@ -58,7 +58,7 @@ Shodan.io Integration
 <details>
 <summary>Cr4ck3r installation</summary>
 
-<Linux>
+## Linux ##
 git clone https://github.com//D3crypT0r/Cr4ck3r.git
 
 cd Cr4ck3r
