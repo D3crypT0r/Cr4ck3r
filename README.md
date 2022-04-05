@@ -64,6 +64,7 @@ To install Cr4ck3r you should execute the following commands.
 ```
 <details>
 <summary>Linux</summary>
+
 > git clone https://github.com//D3crypT0r/Cr4ck3r.git
 
 > cd Cr4ck3r
