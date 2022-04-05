@@ -2,6 +2,20 @@
 Cr4ck3r - Automation Web Application Vulnerability Assessment And Penteration Tool - CMS &amp; Hard Coded
 # Cr4ck3r #
 
+# D3crypt By D3crypT0r
+
+<h3 align="center"><img src="https://courseshunter.com/media/images/android-ethical-hacking-course.jpg" alt="logo" height="250px"></h3>
+
+<p align="center">
+  <a href="http://entysec.netlify.app/">
+    <img src="https://img.shields.io/badge/D3crypT0r-blue.svg"> 
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Ruby_(programming_language)">
+    <img src="https://img.shields.io/badge/language-ruby-red.svg">
+ </a>
+</p>
+**
+
    Developed By -- Rizwan Hilal Shah (D3crypT0r)
 
 ===================================
@@ -26,7 +40,6 @@ Cr4ck3r - Automation Web Application Vulnerability Assessment And Penteration To
 # Shodan.io Integration
 ![image](https://user-images.githubusercontent.com/66831571/161799668-48ddb68e-00ea-4c2d-818d-ae7b8d3746aa.png)
 
-===================================
 
               Vulnerability Assessment & Penteration Testing          
 
@@ -47,9 +60,7 @@ Cr4ck3r - Automation Web Application Vulnerability Assessment And Penteration To
               SH Heade | Server Key Data | Telnet Banner                                           
 
               SMTP Banner And Much More!                              
-
-======================
-
+              
 <details>
 <summary>Cr4ck3r installation</summary>
 
