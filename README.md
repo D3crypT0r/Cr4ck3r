@@ -57,7 +57,7 @@ Cr4ck3r By D3crypT0r
               SMTP Banner And Much More!                              
               
 <details>
-<summary>Cr4ck3r installation</summary>
+<summary>Cr4ck3r Installation</summary>
 
 ```
 To install Cr4ck3r you should execute the following commands.
