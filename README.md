@@ -36,25 +36,27 @@ Cr4ck3r By D3crypT0r
 ![image](https://user-images.githubusercontent.com/66831571/161799668-48ddb68e-00ea-4c2d-818d-ae7b8d3746aa.png)
 
 
-              Vulnerability Assessment & Penteration Testing          
+# Automation TCP Scan
+![image](https://user-images.githubusercontent.com/66831571/161833993-7006ac6a-fc8d-4f2e-b4cc-6da3a86ded1e.png)
 
-              Information Gathering                                   
+Vulnerability Assessment & Penteration Testing          
 
-              CMS & Hard Coded Website Testing 
+Information Gathering                                   
 
-              Sql Injection | Cross Site Scripting (XSS)
+CMS & Hard Coded Website Testing 
+Sql Injection | Cross Site Scripting (XSS)
 
-              HTTP Header Information  | HTTPS Header And Certificate Information                  
+HTTP Header Information  | HTTPS Header And Certificate Information                  
 
-              FTP Banners  |   SNTP Banner                                             
+FTP Banners  |   SNTP Banner    
 
-              DNS Server Configuration   | Shodan Engine                         
+DNS Server Configuration   | Shodan Engine                         
 
-              Misconfiguration Settings                                   
+Misconfiguration Settings 
 
-              SH Heade | Server Key Data | Telnet Banner                                           
+SH Heade | Server Key Data | Telnet Banner                                           
 
-              SMTP Banner And Much More!                              
+SMTP Banner And Much More!                              
               
 <details>
 <summary>Cr4ck3r Installation</summary>
