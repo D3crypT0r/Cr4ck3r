@@ -60,8 +60,7 @@ Cr4ck3r By D3crypT0r
 <summary>Cr4ck3r installation</summary>
 
 ```
-To install Cr4ck3r you should
-execute the following commands.
+To install Cr4ck3r you should execute the following commands.
 ```
 
 # Linux
