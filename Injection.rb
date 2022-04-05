@@ -47,6 +47,7 @@ if (ARGV.length < 1) then
 	
 	 end
 File.open("#{list}","r").each do |target|  
+	puts target
 	
 	
 
