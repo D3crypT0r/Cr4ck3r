@@ -2,32 +2,27 @@
 Cr4ck3r - Automation Web Application Vulnerability Assessment And Penteration Tool - CMS &amp; Hard Coded
 # Cr4ck3r #
 
-   Developed By -- Rizwan Hilal Shah (D3crypT0r)
+   Developed By -- **Rizwan Hilal Shah (D3crypT0r)
 
 ===================================
 ![image](https://user-images.githubusercontent.com/66831571/161799073-4622f2d2-f36b-4e57-acaa-0caae559bc8a.png)
------------------------------------
 
 # Cross Site Scripting Scan
 ![image](https://user-images.githubusercontent.com/66831571/161799288-4c329057-fe67-4d5f-9b0d-376cad316ff5.png)
 
-===================================
 
 # SQL Injection
 ![image](https://user-images.githubusercontent.com/66831571/161799405-88e1872e-778c-4dd9-be3d-15203df46ab1.png)
 
-===================================
 # Log Clear
 
 ![image](https://user-images.githubusercontent.com/66831571/161800003-6c8a134d-91c4-40d9-b3ad-eabf95209698.png)
 
 
-===================================
 # Integrated Web Application Firewall Fingerprinting Toolkit
 
 ![image](https://user-images.githubusercontent.com/66831571/157284172-cb0f461e-1f1e-43af-8882-c46b3754dab1.png)
 
-===================================
 # Shodan.io Integration
 ![image](https://user-images.githubusercontent.com/66831571/161799668-48ddb68e-00ea-4c2d-818d-ae7b8d3746aa.png)
 
