@@ -2,7 +2,7 @@
 Cr4ck3r - Automation Web Application Vulnerability Assessment And Penteration Tool - CMS &amp; Hard Coded
 # Cr4ck3r #
 
-   Developed By -- **Rizwan Hilal Shah (D3crypT0r)
+   Developed By -- *Rizwan Hilal Shah (D3crypT0r)
 
 ===================================
 ![image](https://user-images.githubusercontent.com/66831571/161799073-4622f2d2-f36b-4e57-acaa-0caae559bc8a.png)
