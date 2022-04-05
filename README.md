@@ -58,33 +58,43 @@ Shodan.io Integration
 <details>
 <summary>Cr4ck3r installation</summary>
 
-## Linux ##
-git clone https://github.com//D3crypT0r/Cr4ck3r.git
+```
+To install D3crypt you should
+execute the following commands.
+```
 
-cd Cr4ck3r
+#Linux
+> git clone https://github.com//D3crypT0r/Cr4ck3r.git
 
-ruby setup.rb (Gems installation Manually)
+> cd Cr4ck3r
 
-ruby Cr4ck3r.rb
+> ruby setup.rb (Gems installation Manually)
+
+> ruby Cr4ck3r.rb
 
 =======================================================================
 
-## Android - Termux ## 
+#Android - Termux
 
-pkg update -y
+> pkg update -y
 
-pkg upgrade -y
+> pkg upgrade -y
 
-pkg install git -y
+> pkg install git -y
 
-pkg install ruby -y && ruby setup.rb
+> pkg install ruby -y && ruby setup.rb
 
-git clone https://github.com//D3crypT0r/Cr4ck3r.git
+> git clone https://github.com//D3crypT0r/Cr4ck3r.git
 
-cd Cr4ck3r
+> cd Cr4ck3r
 
-ruby Cr4ck3r.rb
+> ruby Cr4ck3r.rb
 
 ========================================================================
+# DISCLAIMER
 
-                                                                      
+```
+Usage of the D3crypt tool for illigal purpose is strongly prohabited.
+It is the end user's responsibility to obey all applicable local, state, federal, and international laws.
+Developers assume no liability and are not responsible for any misuse or damage caused by this program.
+```
