@@ -62,8 +62,8 @@ Cr4ck3r By D3crypT0r
 ```
 To install Cr4ck3r you should execute the following commands.
 ```
-
-# Linux
+<details>
+<summary>Linux</summary>
 > git clone https://github.com//D3crypT0r/Cr4ck3r.git
 
 > cd Cr4ck3r
@@ -73,8 +73,9 @@ To install Cr4ck3r you should execute the following commands.
 > ruby Cr4ck3r.rb
 
 =======================================================================
+<details>
+<summary>Android - Termux</summary>
 
-# Android - Termux
 
 > pkg update -y
 
