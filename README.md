@@ -11,7 +11,7 @@ Cr4ck3r By D3crypT0r
  </a>
 </p>
 
-   Developed By -- Rizwan Hilal Shah (D3crypT0r)
+   Developed By -- Syed Rizwan Hilal (D3crypT0r)
 
 ===================================
 ![image](https://user-images.githubusercontent.com/66831571/161799073-4622f2d2-f36b-4e57-acaa-0caae559bc8a.png)
@@ -67,8 +67,8 @@ Cr4ck3r By D3crypT0r
 | 22    |  TCP SYN Scan on a whole network                          |
 | 23    |  UDP scan on the whole network                            |
 | 24    |  Mail exchange record (MX record).                        |
-| 25.   |  Name Server records (NS Record) and much more            |
-
+| 25    |  Name Server records (NS Record) and much more            |
+| 26    |  IoT Misconfig Data                                       |
 
 ### Tools
                                            
