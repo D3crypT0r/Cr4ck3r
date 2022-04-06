@@ -41,34 +41,21 @@ Cr4ck3r By D3crypT0r
 
    **Functionality**
 
-|       |                                                           |
-| ----- | --------------------------------------------------------- |
-| 01    |  Information Gathering                                    |
-| 02    |  SQL Injection                                            |
-| 03    |  Cross Site Scripting                                     |
-| 04    |  Crawling                                                 |
-| 05    |  Automation Auditing                                      |
-| 06    |  Http Header Information                                  |
-| 07    |  FTP Banners                                              |
-| 08    |  SNTP Banner                                              |
-| 09    |  DNS Server Configuration                                 |
-| 10    |  Shodan Engine                                            |
-| 11    |  Misconfiguration Settings                                |
-| 12    |  Server Key Data                                          |
-| 13    |  Nmap Scan                                                |                    
-| 14    |  Os Scan                                                  |
-| 15    |  TCP Scan                                                 |
-| 16    |  UDP Scan                                                 |
-| 17    |  All scan                                                 |
-| 18    |  Http Option Scan                                         |
-| 19    |  Live target In Network                                   |
-| 20    |  Unicorn Scan                                             |
-| 21    |  Services OS                                              |
-| 22    |  TCP SYN Scan on a whole network                          |
-| 23    |  UDP scan on the whole network                            |
-| 24    |  Mail exchange record (MX record).                        |
-| 25    |  Name Server records (NS Record) and much more            |
-| 26    |  IoT Misconfig Data                                       |
+|       |                                                           |                                                                    |
+| ----- | --------------------------------------------------------- |--------------------------------------------------------------------|
+| 01    |  Information Gathering                                    ||14    |  OS Scan                                                   |
+| 02    |  SQL Injection                                            ||15    |  TCP Scan                                                  |
+| 03    |  Cross Site Scripting                                     ||16    |  UDP Scan                                                  | 
+| 04    |  Crawling                                                 ||17    |  All scan                                                  |   
+| 05    |  Automation Auditing                                      ||18    |  Http Option Scan                                          |
+| 06    |  Http Header Information                                  ||19    |  Live target In Network                                    |
+| 07    |  FTP Banners                                              ||20    |  Unicorn Scan                                              |
+| 08    |  SNTP Banner                                              ||21    |  Services OS                                               |
+| 09    |  DNS Server Configuration                                 ||22    |  TCP SYN Scan on a whole network                           |
+| 10    |  Shodan Engine                                            ||23    |  UDP scan on the whole network                             | 
+| 11    |  Misconfiguration Settings                                ||24    |  Mail exchange record (MX record).                         |   
+| 12    |  Server Key Data                                          ||25    |  Name Server records (NS Record)                           |
+| 13    |  Nmap Scan                                                ||26    |  IoT Misconfig Data and much more                          |
 
 ### Tools
                                            
