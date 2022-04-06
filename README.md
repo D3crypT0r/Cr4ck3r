@@ -39,9 +39,9 @@ Cr4ck3r By D3crypT0r
 # Automation TCP Scan
 ![image](https://user-images.githubusercontent.com/66831571/161833993-7006ac6a-fc8d-4f2e-b4cc-6da3a86ded1e.png)
 
-   **Functionality**
+      **Functionality**                                                    **Functionality**
 
-|       |                                                           |                                                                    |
+|       |                                                           |       |                                                            |
 | ----- | --------------------------------------------------------- |--------------------------------------------------------------------|
 | 01    |  Information Gathering                                    ||14    |  OS Scan                                                   |
 | 02    |  SQL Injection                                            ||15    |  TCP Scan                                                  |
@@ -57,7 +57,7 @@ Cr4ck3r By D3crypT0r
 | 12    |  Server Key Data                                          ||25    |  Name Server records (NS Record)                           |
 | 13    |  Nmap Scan                                                ||26    |  IoT Misconfig Data and much more                          |
 
-### Tools
+### Tools                                                            ### Tools
                                            
 <details>
 <summary>Cr4ck3r Installation</summary>
