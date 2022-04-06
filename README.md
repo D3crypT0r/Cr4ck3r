@@ -58,7 +58,11 @@ Cr4ck3r By D3crypT0r
  
 ![image](https://user-images.githubusercontent.com/66831571/161833993-7006ac6a-fc8d-4f2e-b4cc-6da3a86ded1e.png)
 
-   **Functionality**
+  
+   <p align="center">
+<img src="https://img.shields.io/badge/**Functionality**-blue.svg">
+ </p>
+   
 
 |       |                                                           |
 | ----- | --------------------------------------------------------- |
