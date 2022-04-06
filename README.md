@@ -146,7 +146,7 @@ To install Cr4ck3r you should execute the following commands.
 
 ```
 Usage of the Cr4ck3r tool for illigal
- purpose is strongly prohabited.
+purpose is strongly prohabited.
 It is the end user's responsibility 
 to obey all applicable local, state, 
 federal, & international laws.
@@ -154,3 +154,7 @@ Developers assume no liability and
 are not responsible for any misuse or 
 damage caused by this program.
 ```
+
+<p align="center">
+<img src="https://img.shields.io/badge/Developed_With_Love_❤️_By_Syed_Rizwan_Hilal_Shah.svg">
+ </p>
