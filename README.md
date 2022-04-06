@@ -100,14 +100,17 @@ Cr4ck3r By D3crypT0r
          
 <details>
 <p align="center">
-<summary> <img src="https://img.shields.io/badge/Cr4ck3r_Installation-blue.svg"> </summary>
+<summary> <img src="https://img.shields.io/badge/LINUX-red-svg"> </summary>
  </p>
 
 ```
 To install Cr4ck3r you should execute the following commands.
 ```
 <details>
-<summary>Linux</summary>
+<details>
+<p align="center">
+<summary> <img src="https://img.shields.io/badge/Cr4ck3r_Installation-blue.svg"> </summary>
+ </p>
 
 > git clone https://github.com//D3crypT0r/Cr4ck3r.git
 
@@ -119,8 +122,11 @@ To install Cr4ck3r you should execute the following commands.
 
 =======================================================================
 <details>
-<summary>Android - Termux</summary>
 
+<details>
+<p align="center">
+<summary> <img src="https://img.shields.io/badge/Android_-_Termux-red.svg"> </summary>
+ </p>
 
 > pkg update -y
 
@@ -137,7 +143,9 @@ To install Cr4ck3r you should execute the following commands.
 > ruby Cr4ck3r.rb
 
 ========================================================================
-# DISCLAIMER
+<p align="center">
+<img src="https://img.shields.io/badge/Disclaimer-yellow.svg">
+ </p>
 
 ```
 Usage of the Cr4ck3r tool for illigal
