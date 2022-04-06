@@ -96,9 +96,12 @@ Cr4ck3r By D3crypT0r
 
 <p align="center">
 <img src="https://img.shields.io/badge/Installation-blue.svg">
- </p>                                      
+ </p>                             
+         
 <details>
-<summary>Cr4ck3r Installation</summary>
+<p align="center">
+<summary> <img src="https://img.shields.io/badge/Cr4ck3r_Installation-blue.svg"> </summary>
+ </p>
 
 ```
 To install Cr4ck3r you should execute the following commands.
