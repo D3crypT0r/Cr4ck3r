@@ -93,8 +93,10 @@ Cr4ck3r By D3crypT0r
 | 25    |  Name Server records (NS Record)                          |
 | 26    |  IoT Misconfig Data and much more                         |
 
-### Tools
-                                           
+
+     <p align="center">
+<img src="https://img.shields.io/badge/Installation-blue.svg">
+ </p>                                      
 <details>
 <summary>Cr4ck3r Installation</summary>
 
