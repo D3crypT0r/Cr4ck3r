@@ -100,7 +100,7 @@ Cr4ck3r By D3crypT0r
          
 <details>
 <p align="center">
-<summary> <img src="https://img.shields.io/badge/LINUX-red-svg"> </summary>
+<summary> <img src="https://img.shields.io/badge/LINUX-svg"> </summary>
  </p>
 
 ```
@@ -119,7 +119,7 @@ To install Cr4ck3r you should execute the following commands.
 
 > ruby Cr4ck3r.rb
 
-=======================================================================
+
 <details>
 <p align="center">
 <summary> <img src="https://img.shields.io/badge/Android_-_Termux-red.svg"> </summary>
