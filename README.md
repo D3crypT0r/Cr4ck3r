@@ -66,8 +66,8 @@ Cr4ck3r By D3crypT0r
 | 21    |  Services OS                                              |
 | 22    |  TCP SYN Scan on a whole network                          |
 | 23    |  UDP scan on the whole network                            |
-| 24.   |  Mail exchange record (MX record) and much more           |
-
+| 24    |  Mail exchange record (MX record).                        |
+| 25.   |  Name Server records (NS Record) and much more            |
 
 
 ### Tools
