@@ -94,7 +94,7 @@ Cr4ck3r By D3crypT0r
 | 26    |  IoT Misconfig Data and much more                         |
 
 
-     <p align="center">
+<p align="center">
 <img src="https://img.shields.io/badge/Installation-blue.svg">
  </p>                                      
 <details>
