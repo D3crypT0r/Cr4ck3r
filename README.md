@@ -7,10 +7,10 @@ Cr4ck3r By D3crypT0r
     <img src="https://img.shields.io/badge/Cr4ck3r-blue.svg"> 
   </a>
   <a href="https://en.wikipedia.org/wiki/Ruby_(programming_language)">
-    <img src="https://img.shields.io/badge/language-ruby-red.svg">
+    <img src="https://img.shields.io/badge/Language-Ruby-red.svg">
  </a>
  <img src="https://img.shields.io/badge/Developed_By_Syed_Rizwan_Hilal_Shah-blue.svg">
- <img src="https://img.shields.io/badge/D3crypT0r.svg">
+ <img src="https://img.shields.io/badge/D3crypT0r-Red.svg">
 </p>
 
    Developed By -- Syed Rizwan Hilal (D3crypT0r)
