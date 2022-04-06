@@ -13,7 +13,7 @@ Cr4ck3r By D3crypT0r
  <img src="https://img.shields.io/badge/D3crypT0r-red.svg">
 </p>
 
-   Developed By -- Syed Rizwan Hilal (D3crypT0r)
+   
 
 ===================================
 ![image](https://user-images.githubusercontent.com/66831571/161799073-4622f2d2-f36b-4e57-acaa-0caae559bc8a.png)
