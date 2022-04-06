@@ -69,26 +69,7 @@ Cr4ck3r By D3crypT0r
 
 
 ### Tools
-
-Vulnerability Assessment & Penteration Testing          
-
-Information Gathering                                   
-
-CMS & Hard Coded Website Testing 
-Sql Injection | Cross Site Scripting (XSS)
-
-HTTP Header Information  | HTTPS Header And Certificate Information                  
-
-FTP Banners  |   SNTP Banner    
-
-DNS Server Configuration   | Shodan Engine                         
-
-Misconfiguration Settings 
-
-SH Heade | Server Key Data | Telnet Banner                                           
-
-SMTP Banner And Much More!                              
-              
+                                           
 <details>
 <summary>Cr4ck3r Installation</summary>
 
