@@ -107,7 +107,6 @@ Cr4ck3r By D3crypT0r
 To install Cr4ck3r you should execute the following commands.
 ```
 <details>
-<details>
 <p align="center">
 <summary> <img src="https://img.shields.io/badge/Cr4ck3r_Installation-blue.svg"> </summary>
  </p>
@@ -121,8 +120,6 @@ To install Cr4ck3r you should execute the following commands.
 > ruby Cr4ck3r.rb
 
 =======================================================================
-<details>
-
 <details>
 <p align="center">
 <summary> <img src="https://img.shields.io/badge/Android_-_Termux-red.svg"> </summary>
