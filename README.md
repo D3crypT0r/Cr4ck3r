@@ -60,7 +60,7 @@ Cr4ck3r By D3crypT0r
 
   
    <p align="center">
-<img src="https://img.shields.io/badge/**Functionality**-blue.svg">
+<img src="https://img.shields.io/badge/Functionality-blue.svg">
  </p>
    
 
