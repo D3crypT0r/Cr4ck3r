@@ -100,7 +100,7 @@ Cr4ck3r By D3crypT0r
          
 <details>
 <p align="center">
-<summary> <img src="https://img.shields.io/badge/LINUX-svg"> </summary>
+<summary> <img src="https://img.shields.io/badge/Click_Here-svg"> </summary>
  </p>
 
 ```
@@ -108,7 +108,7 @@ To install Cr4ck3r you should execute the following commands.
 ```
 <details>
 <p align="center">
-<summary> <img src="https://img.shields.io/badge/Cr4ck3r_Installation-blue.svg"> </summary>
+<summary> <img src="https://img.shields.io/badge/KALI_LINUX-blue.svg"> </summary>
  </p>
 
 > git clone https://github.com//D3crypT0r/Cr4ck3r.git
