@@ -1,7 +1,7 @@
 # Cr4ck3r
 
 <p align="center">
-<img src="https://img.shields.io/badge/Cr4ck3r______Automation_Web_Application_Vulnerability_Assessment_And_Penteration_Tool______CMS_And_Hard_Coded-blue.svg">
+<img src="https://img.shields.io/badge/Cr4ck3r______Automation_Web_Application_Vulnerability_Assessment_And_Penteration_Tool______CMS_And_Hard_Coded-purple.svg">
 </p>
 
 Cr4ck3r By D3crypT0r
