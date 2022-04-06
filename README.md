@@ -18,7 +18,9 @@ Cr4ck3r By D3crypT0r
 
 ![image](https://user-images.githubusercontent.com/66831571/161799073-4622f2d2-f36b-4e57-acaa-0caae559bc8a.png)
 
-# Cross Site Scripting Scan
+<p align="center">
+<img src="https://img.shields.io/badge/Cross_Site_Scripting_Scan-blue.svg">
+ </p>
 ![image](https://user-images.githubusercontent.com/66831571/161799288-4c329057-fe67-4d5f-9b0d-376cad316ff5.png)
 
 
