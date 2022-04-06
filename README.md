@@ -139,7 +139,7 @@ To install Cr4ck3r you should execute the following commands.
 
 > ruby Cr4ck3r.rb
 
-========================================================================
+
 <p align="center">
 <img src="https://img.shields.io/badge/Disclaimer-yellow.svg">
  </p>
