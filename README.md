@@ -39,6 +39,37 @@ Cr4ck3r By D3crypT0r
 # Automation TCP Scan
 ![image](https://user-images.githubusercontent.com/66831571/161833993-7006ac6a-fc8d-4f2e-b4cc-6da3a86ded1e.png)
 
+   **Functionality**
+
+|       |                                                           |
+| ----- | --------------------------------------------------------- |
+| 01    |  Information Gathering                                    |
+| 02    |  SQL Injection                                            |
+| 03    |  Cross Site Scripting                                     |
+| 04    |  Crawling                                                 |
+| 05    |  Automation Auditing                                      |
+| 06    |  Http Header Information                                  |
+| 07    |  FTP Banners                                              |
+| 08    |  SNTP Banner                                              |
+| 09    |  DNS Server Configuration                                 |
+| 10    |  Shodan Engine                                            |
+| 11    |  Misconfiguration Settings                                |
+| 12    |  Server Key Data                                          |
+| 13    |  Nmap Scan                                                |                    
+| 14    |  Os Scan                                                  |
+| 15    |  TCP Scan                                                 |
+| 16    |  UDP Scan                                                 |
+| 17    |  All scan                                                 |
+| 18    |  Http Option Scan                                         |
+| 19    |  Live target In Network                                   |
+| 20    |  Unicorn Scan                                             |
+| 21    |  Services OS                                              |
+| 22    |  TCP SYN Scan on a whole network                          |
+| 23    |  UDP scan on the whole network and much more              |
+
+
+### Tools
+
 Vulnerability Assessment & Penteration Testing          
 
 Information Gathering                                   
