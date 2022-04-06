@@ -21,6 +21,7 @@ Cr4ck3r By D3crypT0r
 <p align="center">
 <img src="https://img.shields.io/badge/Cross_Site_Scripting_Scan-blue.svg">
  </p>
+ 
 ![image](https://user-images.githubusercontent.com/66831571/161799288-4c329057-fe67-4d5f-9b0d-376cad316ff5.png)
 
 
