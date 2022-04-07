@@ -68,64 +68,108 @@ Cr4ck3r By D3crypT0r
 <img src="https://img.shields.io/badge/Functionality-blue.svg">
  </p>
    
-
-|       |                                                           |
-| ----- | --------------------------------------------------------- |
-| 01    |  <p align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/Information Gathering-blue.svg">
-  </a>                                    |
-| 02    |  <p align="center">
+  </a>
+
+<p align="center">
   <img src="https://img.shields.io/badge/SQL_Injection-blue.svg">
-  </a>                                           |
-| 03    | <p align="center">
+  </a>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Cross_Site_Scripting-blue.svg">
   </a>
-                                     |
-| 04    |  <p align="center">
+
+<p align="center">
   <img src="https://img.shields.io/badge/Crwaling-blue.svg">
-  </a>                                                |
-| 05    |  <p align="center">
+  </a>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Automation_Auditing-blue.svg">
-  </a>                                     |
-| 06    |  <p align="center">
+  </a>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Http_Header_Information-blue.svg">
-  </a>                                  |
-| 07    |  <p align="center">
+  </a>
+
+<p align="center">
   <img src="https://img.shields.io/badge/FTP_Banners-blue.svg">
-  </a>                                              |
-| 08    |  <p align="center">
+  </a>
+
+<p align="center">
   <img src="https://img.shields.io/badge/SNTP_Banner-blue.svg">
-  </a>                                              |
-| 09    |  <p align="center">
+  </a>
+
+<p align="center">
   <img src="https://img.shields.io/badge/DNS_Server_Configuration-blue.svg">
-  </a>                                 |
-| 10    |  <p align="center">
+  </a>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Shodan_Engine-blue.svg">
-  </a>                                            |
-| 11    |  <p align="center">
+  </a>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Misconfiguration_Settings-blue.svg">
-  </a>                                |
-| 12    |  <p align="center">
+  </a>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Server_Key_Data-blue.svg">
-  </a>                                      |
-| 13    |  <p align="center">
+  </a>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Nmap_Scan-blue.svg">
-  </a>                                                |                    
-| 14    |  <p align="center">
+  </a>
+
+<p align="center">
   <img src="https://img.shields.io/badge/OS_Scan-blue.svg">
-  </a>                                                  |
-| 15    |  <p align="center">
+  </a>
+
+<p align="center">
   <img src="https://img.shields.io/badge/TCP_Scan-blue.svg">
-  </a>                                                 | <p align="center">
+  </a>
+
+<p align="center">
   <img src="https://img.shields.io/badge/UDP_Scan-blue.svg">
-  </a>                                                  <p align="center">
+  </a>
+
+<p align="center">
   <img src="https://img.shields.io/badge/All_Scan-blue.svg">
-  </a>     <p align="center">
+  </a>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Http_Option_Scan-blue.svg">
   </a>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Live_Target_In_Network-blue.svg">
+  </a>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Unicorn_Scan-blue.svg">
+  </a>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Services_OS-blue.svg">
+  </a>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TCP_Syn_Scan_On_A_Whole_Network-blue.svg">
+  </a>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/UDP_Scan_On_The_Whole_Network-blue.svg">
+  </a>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Mail_Exchange_Record____MX_Record-blue.svg">
+  </a>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Name_Server_Record___NS_Record-blue.svg">
+  </a>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IoT_Misconfig_Data_And_Much_More-blue.svg">
   </a>
 
 <p align="center">
