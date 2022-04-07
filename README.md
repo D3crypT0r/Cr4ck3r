@@ -157,7 +157,7 @@ are not responsible for any misuse or
 damage caused by this program.
 ```
 
-<p align="left">
+<p align="center">
 <img src="https://img.shields.io/badge/Developed_With_Love_By-Blue.svg">
 <img src="https://img.shields.io/badge/Syed_Rizwan_Hilal_Shah-purple.svg">
 </p>
