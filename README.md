@@ -116,7 +116,9 @@ Cr4ck3r By D3crypT0r
   </a>                                                  |
 | 15    |  <p align="center">
   <img src="https://img.shields.io/badge/TCP_Scan-blue.svg">
-  </a>                                                 |
+  </a>                                                 | <p align="center">
+  <img src="https://img.shields.io/badge/UDP_Scan-blue.svg">
+  </a>
 | 16    |  UDP Scan                                                 |
 | 17    |  All scan                                                 |
 | 18    |  Http Option Scan                                         |
