@@ -118,6 +118,8 @@ Cr4ck3r By D3crypT0r
   <img src="https://img.shields.io/badge/TCP_Scan-blue.svg">
   </a>                                                 | <p align="center">
   <img src="https://img.shields.io/badge/UDP_Scan-blue.svg">
+  </a>                                                  <p align="center">
+  <img src="https://img.shields.io/badge/All_Scan-blue.svg">
   </a>
 | 16    |  UDP Scan                                                 |
 | 17    |  All scan                                                 |
