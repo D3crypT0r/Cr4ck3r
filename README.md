@@ -71,7 +71,9 @@ Cr4ck3r By D3crypT0r
 
 |       |                                                           |
 | ----- | --------------------------------------------------------- |
-| 01    |  Information Gathering                                    |
+| 01    |  <p align="center">
+  <img src="https://img.shields.io/badge/Information Gathering-blue.svg">
+  </a>                                    |
 | 02    |  SQL Injection                                            |
 | 03    |  Cross Site Scripting                                     |
 | 04    |  Crawling                                                 |
