@@ -106,7 +106,10 @@ Cr4ck3r By D3crypT0r
  </p>
 
 ```
-To install Cr4ck3r you should execute the following commands.
+<p align="center">
+<img src="https://img.shields.io/badge/To_Install_Cr4ck3r_You_Should_Execute_The_Following_Commands.
+-blue.svg">
+</a>
 ```
 <details>
 <p align="center">
