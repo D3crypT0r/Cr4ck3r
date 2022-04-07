@@ -74,20 +74,49 @@ Cr4ck3r By D3crypT0r
 | 01    |  <p align="center">
   <img src="https://img.shields.io/badge/Information Gathering-blue.svg">
   </a>                                    |
-| 02    |  SQL Injection                                            |
-| 03    |  Cross Site Scripting                                     |
-| 04    |  Crawling                                                 |
-| 05    |  Automation Auditing                                      |
-| 06    |  Http Header Information                                  |
-| 07    |  FTP Banners                                              |
-| 08    |  SNTP Banner                                              |
-| 09    |  DNS Server Configuration                                 |
-| 10    |  Shodan Engine                                            |
-| 11    |  Misconfiguration Settings                                |
-| 12    |  Server Key Data                                          |
-| 13    |  Nmap Scan                                                |                    
-| 14    |  Os Scan                                                  |
-| 15    |  TCP Scan                                                 |
+| 02    |  <p align="center">
+  <img src="https://img.shields.io/badge/SQL_Injection-blue.svg">
+  </a>                                           |
+| 03    | <p align="center">
+  <img src="https://img.shields.io/badge/Cross_Site_Scripting-blue.svg">
+  </a>
+                                     |
+| 04    |  <p align="center">
+  <img src="https://img.shields.io/badge/Crwaling-blue.svg">
+  </a>                                                |
+| 05    |  <p align="center">
+  <img src="https://img.shields.io/badge/Automation_Auditing-blue.svg">
+  </a>                                     |
+| 06    |  <p align="center">
+  <img src="https://img.shields.io/badge/Http_Header_Information-blue.svg">
+  </a>                                  |
+| 07    |  <p align="center">
+  <img src="https://img.shields.io/badge/FTP_Banners-blue.svg">
+  </a>                                              |
+| 08    |  <p align="center">
+  <img src="https://img.shields.io/badge/SNTP_Banner-blue.svg">
+  </a>                                              |
+| 09    |  <p align="center">
+  <img src="https://img.shields.io/badge/DNS_Server_Configuration-blue.svg">
+  </a>                                 |
+| 10    |  <p align="center">
+  <img src="https://img.shields.io/badge/Shodan_Engine-blue.svg">
+  </a>                                            |
+| 11    |  <p align="center">
+  <img src="https://img.shields.io/badge/Misconfiguration_Settings-blue.svg">
+  </a>                                |
+| 12    |  <p align="center">
+  <img src="https://img.shields.io/badge/Server_Key_Data-blue.svg">
+  </a>                                      |
+| 13    |  <p align="center">
+  <img src="https://img.shields.io/badge/Nmap_Scan-blue.svg">
+  </a>                                                |                    
+| 14    |  <p align="center">
+  <img src="https://img.shields.io/badge/OS_Scan-blue.svg">
+  </a>                                                  |
+| 15    |  <p align="center">
+  <img src="https://img.shields.io/badge/TCP_Scan-blue.svg">
+  </a>                                                 |
 | 16    |  UDP Scan                                                 |
 | 17    |  All scan                                                 |
 | 18    |  Http Option Scan                                         |
