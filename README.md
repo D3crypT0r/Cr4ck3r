@@ -68,7 +68,7 @@ Cr4ck3r By D3crypT0r
 <img src="https://img.shields.io/badge/Functionality-blue.svg">
  </p>
    
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Information Gathering-blue.svg">
   </a>
 
