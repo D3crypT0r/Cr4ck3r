@@ -159,6 +159,5 @@ damage caused by this program.
 
 <p align="left">
 <img src="https://img.shields.io/badge/Developed_With_Love_By-Blue.svg">
- <p align="left">
 <img src="https://img.shields.io/badge/Syed_Rizwan_Hilal_Shah-purple.svg">
 </p>
