@@ -6,7 +6,6 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Cr4ck3r_By_D3crypT0r-indigo.svg">
  </p>
-Cr4ck3r By D3crypT0r
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cr4ck3r-blue.svg">
