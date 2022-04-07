@@ -69,109 +69,33 @@ Cr4ck3r By D3crypT0r
  </p>
    
 <p align="left">
-  <img src="https://img.shields.io/badge/Information Gathering-blue.svg">
-  </a>
-
-<p align="right">
-  <img src="https://img.shields.io/badge/SQL_Injection-blue.svg">
-  </a>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cross_Site_Scripting-blue.svg">
-  </a>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Crwaling-blue.svg">
-  </a>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Automation_Auditing-blue.svg">
-  </a>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Http_Header_Information-blue.svg">
-  </a>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FTP_Banners-blue.svg">
-  </a>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SNTP_Banner-blue.svg">
-  </a>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/DNS_Server_Configuration-blue.svg">
-  </a>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Shodan_Engine-blue.svg">
-  </a>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Misconfiguration_Settings-blue.svg">
-  </a>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Server_Key_Data-blue.svg">
-  </a>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Nmap_Scan-blue.svg">
-  </a>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OS_Scan-blue.svg">
-  </a>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TCP_Scan-blue.svg">
-  </a>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/UDP_Scan-blue.svg">
-  </a>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/All_Scan-blue.svg">
-  </a>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Http_Option_Scan-blue.svg">
-  </a>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Live_Target_In_Network-blue.svg">
-  </a>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Unicorn_Scan-blue.svg">
-  </a>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Services_OS-blue.svg">
-  </a>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TCP_Syn_Scan_On_A_Whole_Network-blue.svg">
-  </a>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/UDP_Scan_On_The_Whole_Network-blue.svg">
-  </a>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Mail_Exchange_Record____MX_Record-blue.svg">
-  </a>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Name_Server_Record___NS_Record-blue.svg">
-  </a>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/IoT_Misconfig_Data_And_Much_More-blue.svg">
-  </a>
-
+<img src="https://img.shields.io/badge/Information Gathering-blue.svg">
+<img src="https://img.shields.io/badge/SQL_Injection-red.svg">
+<img src="https://img.shields.io/badge/Cross_Site_Scripting-voilet.svg">
+<img src="https://img.shields.io/badge/Crwaling-blue.svg">
+<img src="https://img.shields.io/badge/Automation_Auditing-red.svg">
+<img src="https://img.shields.io/badge/Http_Header_Information-voilet.svg">
+<img src="https://img.shields.io/badge/FTP_Banners-blue.svg">
+<img src="https://img.shields.io/badge/SNTP_Banner-red.svg">
+<img src="https://img.shields.io/badge/DNS_Server_Configuration-voilet.svg">
+<img src="https://img.shields.io/badge/Shodan_Engine-blue.svg">
+<img src="https://img.shields.io/badge/Misconfiguration_Settings-red.svg">
+<img src="https://img.shields.io/badge/Server_Key_Data-voilet.svg">
+<img src="https://img.shields.io/badge/Nmap_Scan-blue.svg">
+<img src="https://img.shields.io/badge/OS_Scan-red.svg">
+<img src="https://img.shields.io/badge/TCP_Scan-voilet.svg">
+<img src="https://img.shields.io/badge/UDP_Scan-blue.svg">
+<img src="https://img.shields.io/badge/All_Scan-red.svg">
+<img src="https://img.shields.io/badge/Http_Option_Scan-voilet.svg">
+<img src="https://img.shields.io/badge/Live_Target_In_Network-blue.svg">
+<img src="https://img.shields.io/badge/Unicorn_Scan-red.svg">
+<img src="https://img.shields.io/badge/Services_OS-voilet.svg">
+<img src="https://img.shields.io/badge/TCP_Syn_Scan_On_A_Whole_Network-blue.svg">
+<img src="https://img.shields.io/badge/UDP_Scan_On_The_Whole_Network-red.svg">
+<img src="https://img.shields.io/badge/Mail_Exchange_Record____MX_Record-voilet.svg">
+<img src="https://img.shields.io/badge/Name_Server_Record___NS_Record-blue.svg">
+<img src="https://img.shields.io/badge/IoT_Misconfig_Data_And_Much_More-red.svg">
+</a>
 <p align="center">
 <img src="https://img.shields.io/badge/Cr4ck3r_Installation-blue.svg">
  </p>                             
