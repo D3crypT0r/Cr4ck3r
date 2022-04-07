@@ -109,6 +109,7 @@ Cr4ck3r By D3crypT0r
 <p align="center">
 <img src="https://img.shields.io/badge/To_Install_Cr4ck3r_You_Should_Execute_The_Following_Commands-green.svg">
 </a>
+
 ```
 <details>
 <p align="center">
