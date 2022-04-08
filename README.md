@@ -98,11 +98,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Cr4ck3r_Installation-blue.svg">
  </p>                             
-         
-<details>
-<p align="center">
-<summary> <img src="https://img.shields.io/badge/Click_Here-svg"> </summary>
- </p>
+        
 
 <p align="center">
 <img src="https://img.shields.io/badge/To_Install_Cr4ck3r_You_Should_Execute_The_Following_Commands-green.svg">
