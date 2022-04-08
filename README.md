@@ -137,7 +137,7 @@
 
 
 <p align="center">
-<img src="https://img.shields.io/badge/Disclaimer-yellow.svg">
+<img src="https://img.shields.io/badge/Disclaimer-purple.svg">
  </p>
 
 <p align="left">
