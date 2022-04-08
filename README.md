@@ -140,10 +140,10 @@
 <img src="https://img.shields.io/badge/Disclaimer-yellow.svg">
  </p>
 
-<p align="center">
- <img src="https://img.sheilds.io/badge/Usage_Of_The_Cr4ck3r_Tool_For_Illigal_Purpose_Is_Strongly_Prohabited-yellow.svg">
- </p>
  
+ <p align="center">
+<img src="https://img.shields.io/badge/Usage_Of_The_Cr4ck3r_Tool_For_Illigal_Purpose_Is_Strongly_Prohabited-yellow.svg">
+ </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Developed_With_Love_By-Blue.svg">
