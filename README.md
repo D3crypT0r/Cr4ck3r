@@ -141,7 +141,7 @@
  </p>
 
 <p align="center">
- <img src="https://img.sheilds.io/badge/Usage_Of_The_Cr4ck3r_Tool_For_Illigal_Purpose_Is_Strongly_Prohabited_._It_Is_The_End_User's_Responsibility_To_Obey_All_Applicable_Local_,_State_,_Federal_And_International_laws_._Developers_Assume_No_Liability_And_Are_Not_Responsible_For_Any_Misuse_Or_Damage_Caused_By_This_Program.-yellow.svg">
+ <img src="https://img.sheilds.io/badge/Usage_Of_The_Cr4ck3r_Tool_For_Illigal_Purpose_Is_Strongly_Prohabited-yellow.svg">
  </p>
  
 
