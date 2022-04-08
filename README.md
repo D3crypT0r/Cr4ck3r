@@ -140,10 +140,52 @@
 <img src="https://img.shields.io/badge/Disclaimer-yellow.svg">
  </p>
 
- 
- <p align="center">
-<img src="https://img.shields.io/badge/Usage_Of_The_Cr4ck3r_Tool_For_Illigal_Purpose_Is_Strongly_Prohabited-yellow.svg">
- </p>
+<p align="left">
+<img src="https://img.shields.io/badge/Usage-blue.svg">
+<img src="https://img.shields.io/badge/Of-blue.svg">
+<img src="https://img.shields.io/badge/The-blue.svg">
+<img src="https://img.shields.io/badge/Cr4ck3r-blue.svg">
+<img src="https://img.shields.io/badge/Tool-blue.svg">
+<img src="https://img.shields.io/badge/For-blue.svg">
+<img src="https://img.shields.io/badge/Illigal-blue.svg">
+<img src="https://img.shields.io/badge/Purpose-blue.svg">
+<img src="https://img.shields.io/badge/Is-blue.svg">
+<img src="https://img.shields.io/badge/Strongly-blue.svg">
+<img src="https://img.shields.io/badge/Prohabited-blue.svg">
+<img src="https://img.shields.io/badge/It-blue.svg">
+<img src="https://img.shields.io/badge/Is-blue.svg">
+<img src="https://img.shields.io/badge/The-blue.svg">
+<img src="https://img.shields.io/badge/End-blue.svg">
+<img src="https://img.shields.io/badge/Users-blue.svg">
+<img src="https://img.shields.io/badge/Responsibility-blue.svg">
+<img src="https://img.shields.io/badge/To-blue.svg">
+<img src="https://img.shields.io/badge/Obey-blue.svg">
+<img src="https://img.shields.io/badge/All-blue.svg">
+<img src="https://img.shields.io/badge/Applicable-blue.svg">
+<img src="https://img.shields.io/badge/Local-blue.svg">
+<img src="https://img.shields.io/badge/State-blue.svg">
+<img src="https://img.shields.io/badge/Federal-blue.svg">
+<img src="https://img.shields.io/badge/And-blue.svg">
+<img src="https://img.shields.io/badge/International-blue.svg">
+<img src="https://img.shields.io/badge/Laws-blue.svg">
+<img src="https://img.shields.io/badge/Developers-blue.svg">
+<img src="https://img.shields.io/badge/Assume-blue.svg">
+<img src="https://img.shields.io/badge/No-blue.svg">
+<img src="https://img.shields.io/badge/Liability-blue.svg">
+<img src="https://img.shields.io/badge/And-blue.svg">
+<img src="https://img.shields.io/badge/Are-blue.svg">
+<img src="https://img.shields.io/badge/Not-blue.svg">
+<img src="https://img.shields.io/badge/Responsible-blue.svg">
+<img src="https://img.shields.io/badge/For-blue.svg">
+<img src="https://img.shields.io/badge/Any-blue.svg">
+<img src="https://img.shields.io/badge/Misuse-blue.svg">
+<img src="https://img.shields.io/badge/Or-blue.svg">
+<img src="https://img.shields.io/badge/Damage-blue.svg">
+<img src="https://img.shields.io/badge/Caused-blue.svg">
+<img src="https://img.shields.io/badge/By-blue.svg">
+<img src="https://img.shields.io/badge/This-blue.svg">
+<img src="https://img.shields.io/badge/Program-blue.svg">
+</a> 
 
 <p align="center">
 <img src="https://img.shields.io/badge/Developed_With_Love_By-Blue.svg">
