@@ -104,7 +104,6 @@
 <img src="https://img.shields.io/badge/To_Install_Cr4ck3r_You_Should_Execute_The_Following_Commands-green.svg">
 </a>
 
-<details>
 <p align="center">
 <summary> <img src="https://img.shields.io/badge/KALI_LINUX-blue.svg"> </summary>
  </p>
@@ -118,7 +117,6 @@
 > ruby Cr4ck3r.rb
 
 
-<details>
 <p align="center">
 <summary> <img src="https://img.shields.io/badge/Android_-_Termux-red.svg"> </summary>
  </p>
