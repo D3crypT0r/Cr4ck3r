@@ -140,16 +140,10 @@
 <img src="https://img.shields.io/badge/Disclaimer-yellow.svg">
  </p>
 
-```
-Usage of the Cr4ck3r tool for illigal
-purpose is strongly prohabited.
-It is the end user's responsibility 
-to obey all applicable local, state, 
-federal, & international laws.
-Developers assume no liability and 
-are not responsible for any misuse or 
-damage caused by this program.
-```
+<p align="center">
+ <img src="https://img.sheilds.io/badge/Usage_Of_The_Cr4ck3r_Tool_For_Illigal_Purpose_Is_Strongly_Prohabited_._It_Is_The_End_User's_Responsibility_To_Obey_All_Applicable_Local_,_State_,_Federal_And_International_laws_._Developers_Assume_No_Liability_And_Are_Not_Responsible_For_Any_Misuse_Or_Damage_Caused_By_This_Program.-yellow.svg">
+ </p>
+ 
 
 <p align="center">
 <img src="https://img.shields.io/badge/Developed_With_Love_By-Blue.svg">
