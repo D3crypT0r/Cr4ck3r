@@ -140,25 +140,15 @@
 <img src="https://img.shields.io/badge/USAGE-maroon.svg">
  </p>
  
-|______________|_______________________________________|
-|              |                                       |
-|   Input      | Select the target website             |
-|______________|_______________________________________|
-|              |                                       |
-|   Anonymous  | Run anonymous mode                    |
-|______________|_______________________________________|
-|              |                                       |
-|   Update     | Update Cr4ck3r                        |
-|______________|_______________________________________|
-|              |                                       |
-|   Target     |  Search targets via shodan.io Engine  |
-|______________|_______________________________________|
-|              |                                       |
-|   About      | About Cr4ck3r                         |
-|______________|_______________________________________|
-|              |                                       |
-|   Help       |  Show this message                    |
-|______________|_______________________________________|
+|     |            |                                       |
+| --- | -----------|---------------------------------------|
+| 01  |  Input     |   Select the target website           |
+| 02  |  Anonymous |   Run anonymous mode                  |
+| 03  |  Update    |   Update Cr4ck3r                      |
+| 04  |  Target    |   Search targets via shodan.io Engine |
+| 05  |  About     |   About Cr4ck3r                       |
+| 06  |  Help      |   Show this message                   |
+
  
 
 <p align="center">
