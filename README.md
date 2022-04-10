@@ -142,7 +142,7 @@
  
 |     |                                |                                       |
 | --- | -------------------------------|---------------------------------------|
-| 01  | ruby Injection.rb/             |   Directly Lauching The Sql           |
+| 01  | ruby Injection.rb              |   Directly Lauching The Sql           |
 |     | /parameter.aspx/index.php?id=1                                         |
 | 02  | ruby RSDScan.rb                |   Directly Lauching The XSS           |
 |     | /parameter.aspx/index.php?id=1                                         |
