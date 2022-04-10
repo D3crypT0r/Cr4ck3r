@@ -140,14 +140,29 @@
 <img src="https://img.shields.io/badge/USAGE-maroon.svg">
  </p>
  
-|     |            |                                       |
-| --- | -----------|---------------------------------------|
-| 01  |  Input     |   Select the target website           |
-| 02  |  Anonymous |   Run anonymous mode                  |
-| 03  |  Update    |   Update Cr4ck3r                      |
-| 04  |  Target    |   Search targets via shodan.io Engine |
-| 05  |  About     |   About Cr4ck3r                       |
-| 06  |  Help      |   Show this message                   |
+|     |                         |                                       |
+| --- | ------------------------|---------------------------------------|
+| 01  |  ruby Injection.rb/     |   Directly Lauching The Sql           |
+|/parameter.aspx/index.php?id=1                                         |
+-------------------------------------------------------------------------
+| 02  |  ruby RSDScan.rb        |   Directly Lauching The XSS           |
+|/parameter.aspx/index.php?id=1                                         |
+-------------------------------------------------------------------------
+| 02  |  Banner                 |   Show Menu Options                   |
+-------------------------------------------------------------------------
+| 04  |  Target                 |   Search targets via shodan.io Engine |
+-------------------------------------------------------------------------
+| 02  |  Anonymous              |   Run anonymous mode                  |
+-------------------------------------------------------------------------
+| 03  |  Update                 |   Update Cr4ck3r                      |
+-------------------------------------------------------------------------
+| 04  |  Target                 |   Search targets via shodan.io Engine |
+-------------------------------------------------------------------------
+| 05  |  About                  |   About Cr4ck3r                       |
+-------------------------------------------------------------------------
+| 06  |  Help                   |   Show this message                   |
+-------------------------------------------------------------------------
+
 
  
 
