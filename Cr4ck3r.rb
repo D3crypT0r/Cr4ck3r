@@ -46,13 +46,13 @@ if $option == "help"  then
 
 puts
 
-puts "[Input] MAKE YOUR TARGET".green
-puts "[Help] show this MESSAGE".green
-puts "[Target] Search targets".green
-puts "[exit] exit the script".green
-puts "[Update] Update Cr4ck3r".green
-puts "[Anonymous] Run Anonymous Mode".green
-puts "[About] About Cr4ck3r".green
+puts "[Input]       Select the target website".green
+puts "[Help]        Show this Message".green
+puts "[Target]      Search targets".green
+puts "[exit]        Exit the script".green
+puts "[Update]      Update Cr4ck3r".green
+puts "[Anonymous]   Run Anonymous Mode".green
+puts "[About]       About Cr4ck3r".green
 puts                  
 end
 if $option == "Anonymous" then 
