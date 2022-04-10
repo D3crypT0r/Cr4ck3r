@@ -137,6 +137,31 @@
 
 
 <p align="center">
+<img src="https://img.shields.io/badge/USAGE-maroon.svg">
+ </p>
+ 
+|______________|_______________________________________|
+|              |                                       |
+|   Input      | Select the target website             |
+|______________|_______________________________________|
+|              |                                       |
+|   Anonymous  | Run anonymous mode                    |
+|______________|_______________________________________|
+|              |                                       |
+|   Update     | Update Cr4ck3r                        |
+|______________|_______________________________________|
+|              |                                       |
+|   Target     |  Search targets via shodan.io Engine  |
+|______________|_______________________________________|
+|              |                                       |
+|   About      | About Cr4ck3r                         |
+|______________|_______________________________________|
+|              |                                       |
+|   Help       |  Show this message                    |
+|______________|_______________________________________|
+ 
+
+<p align="center">
 <img src="https://img.shields.io/badge/Disclaimer-purple.svg">
  </p>
 
