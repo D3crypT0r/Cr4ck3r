@@ -12,6 +12,7 @@
   </a>
   <a href="https://en.wikipedia.org/wiki/Ruby_(programming_language)">
     <img src="https://img.shields.io/badge/Language-Ruby-red.svg">
+ 
  </a>
  <img src="https://img.shields.io/badge/Developed_By_Syed_Rizwan_Hilal_Shah-blue.svg">
  <img src="https://img.shields.io/badge/D3crypT0r-red.svg">
