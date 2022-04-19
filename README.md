@@ -91,7 +91,8 @@
 <img src="https://img.shields.io/badge/Unicorn_Scan-red.svg">
 <img src="https://img.shields.io/badge/Services_OS-voilet.svg">
 <img src="https://img.shields.io/badge/TCP_Syn_Scan_On_A_Whole_Network-blue.svg">
-<img src="https://img.shields.io/badge/UDP_Scan_On_The_Whole_Network-red.svg">
+<img src="https://img.shields.io/badge/Subdomain_Enumeration-red.svg">
+ <img src="https://img.shields.io/badge/UDP_Scan_On_The_Whole_Network-red.svg">
 <img src="https://img.shields.io/badge/Mail_Exchange_Record____MX_Record-voilet.svg">
 <img src="https://img.shields.io/badge/Name_Server_Record___NS_Record-blue.svg">
 <img src="https://img.shields.io/badge/IoT_Misconfig_Data_And_Much_More-red.svg">
