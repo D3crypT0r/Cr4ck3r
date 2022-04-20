@@ -129,13 +129,32 @@
 
 > pkg install git -y
 
-> pkg install ruby -y && ruby setup.rb
+> pkg install ruby -y
+  
+> pkg install curl
+> 
+> pkg install nmap
+ 
+> pkg install sqlmap
 
 > git clone https://github.com//D3crypT0r/Cr4ck3r.git
+
+> ruby setup.rb
 
 > cd Cr4ck3r
 
 > ruby Cr4ck3r.rb
+
+<p align="center">
+<summary> <img src="https://img.shields.io/badge/Windows-voilet.svg"> </summary>
+ </p>
+ 
+> Download the following requirement.
+ 
+> Ruby
+> Curl
+> nmap
+> cmder
 
 
 <p align="center">
