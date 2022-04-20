@@ -152,8 +152,11 @@
 > Download the following requirement.
  
 >  Ruby
+
 >  Curl
+
 >  nmap
+
 >  cmder
 
 
