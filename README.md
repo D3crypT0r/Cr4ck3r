@@ -149,7 +149,7 @@
 <summary> <img src="https://img.shields.io/badge/Windows-voilet.svg"> </summary>
  </p>
  
-> Download the following requirement.
+> Download the following requirements.
  
 >  Ruby
 
