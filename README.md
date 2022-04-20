@@ -132,7 +132,7 @@
 > pkg install ruby -y
   
 > pkg install curl
-> 
+
 > pkg install nmap
  
 > pkg install sqlmap
@@ -151,10 +151,10 @@
  
 > Download the following requirement.
  
-> Ruby
-> Curl
-> nmap
-> cmder
+>  Ruby
+>  Curl
+>  nmap
+>  cmder
 
 
 <p align="center">
